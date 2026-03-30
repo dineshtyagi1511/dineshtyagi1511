@@ -63,7 +63,7 @@ I'm a **Machine Learning Engineer** specializing in **Generative AI and NLP**, c
 
 ## 🚀 Featured Projects
 
-### 🔍 [RAG Q&A System with CI/CD](https://github.com/dineshtyagi1511/rag-qa-system)
+### 🔍 [RAG Q&A System with CI/CD](https://github.com/dineshtyagi1511/rag-qa-project)
 > Production-ready Retrieval-Augmented Generation system
 
 Built with **FastAPI + OpenAI (GPT) + LangChain + Qdrant**. Features document ingestion via PyPDF2, REST APIs with Swagger docs, fully containerized with Docker, and deployed on **AWS App Runner** via automated GitHub Actions CI/CD.
@@ -72,7 +72,7 @@ Built with **FastAPI + OpenAI (GPT) + LangChain + Qdrant**. Features document in
 
 ---
 
-### 📝 [Flan-T5 Text Summarization](https://github.com/dineshtyagi1511/flan-t5-summarization)
+### 📝 [Flan-T5 Text Summarization](https://github.com/dineshtyagi1511/text-summarizer)
 > NLP + MLOps end-to-end pipeline
 
 Fine-tuned `google/flan-t5-base` on SAMSum dataset with HuggingFace Seq2SeqTrainer. Experiment tracking via **Weights & Biases**, inference served via FastAPI, containerized and deployed on **AWS App Runner**.
@@ -81,7 +81,7 @@ Fine-tuned `google/flan-t5-base` on SAMSum dataset with HuggingFace Seq2SeqTrain
 
 ---
 
-### 🍹 [Drinks Quality Prediction System](https://github.com/dineshtyagi1511/drinks-quality-prediction)
+### 🍹 [Drinks Quality Prediction System](https://github.com/dineshtyagi1511/Drinks-Quality-Prediction-System-aws)
 > End-to-end ML system with full MLOps workflow
 
 Multi-stage pipeline: data ingestion → validation → transformation → training → evaluation. Flask REST APIs for real-time predictions, deployed on **AWS EC2** with CI/CD via GitHub Actions.
